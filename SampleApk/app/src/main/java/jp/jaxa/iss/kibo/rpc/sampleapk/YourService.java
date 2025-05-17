@@ -13,7 +13,7 @@ import org.opencv.core.Mat;
 /**
  * Class meant to handle commands from the Ground Data System and execute them in Astrobee.
  */
-//hi
+
 public class YourService extends KiboRpcService {
 
     private final String TAG = this.getClass().getSimpleName();
